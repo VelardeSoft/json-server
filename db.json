@@ -7,7 +7,7 @@
       "price": 123,
       "address": "Los olivos sn",
       "phone": "926335834",
-      "imageUrl": "https://i.ibb.co/87W7NKP/Logo-Movi-Tech.png",
+      "imageUrl": "https://i.ibb.co/8rdm6xC/Logo-Movi-Tech.png",
       "id": "2e14"
     },
     {
@@ -19,113 +19,6 @@
       "address": "Los Olivos sn1",
       "phone": "926335924",
       "imageUrl": "https://i.ibb.co/8rdm6xC/Logo-Movi-Tech.png"
-    }
-  ],
-  "users": [
-    {
-      "id": "26bd90cf-3d0b-4e21-874c-d2d6aa25d427",
-      "email": "velarde@gmail.com",
-      "password": "velarde123",
-      "completeName": "Nestor Velarde",
-      "phone": "926335924",
-      "dni": "76456342",
-      "photo": "https://i.ibb.co/87W7NKP/Logo-Movi-Tech.png"
-    }
-  ],
-  "user_roles": [
-    {
-      "id": "1",
-      "role": "Owner"
-    },
-    {
-      "id": "2",
-      "role": "User"
-    }
-  ],
-  "scooters": [
-    {
-      "id": "1",
-      "brand": "Xiaomi",
-      "model": "M365",
-      "price": 500,
-      "image": "https://github.com/VelardeSoft/json/issues/1#issue-2526712226",
-      "price_per_hour": "number",
-      "status": "string",
-      "owner_id": "string"
-    },
-    {
-      "id": "2",
-      "brand": "Segway",
-      "model": "Ninebot",
-      "price": 600,
-      "image": "https://github.com/VelardeSoft/json/issues/1#issue-2526712226",
-      "price_per_hour": "number",
-      "status": "string",
-      "owner_id": "string"
-    }
-  ],
-  "reservations": [
-    {
-      "reservation_id": 1,
-      "client_id": 1,
-      "scooter_id": 2,
-      "start_date": "2024-09-15",
-      "end_date": "2024-09-20",
-      "id": "4794"
-    },
-    {
-      "reservation_id": 2,
-      "client_id": 2,
-      "scooter_id": 1,
-      "start_date": "2024-09-17",
-      "end_date": "2024-09-19",
-      "id": "17ab"
-    }
-  ],
-  "rates": [
-    {
-      "id": "1",
-      "comment": "Excelente scooter, muy cómodo.",
-      "star_numb": 5,
-      "client_id": 1,
-      "scooter_id": 1
-    },
-    {
-      "id": "2",
-      "comment": "Buen servicio, pero el scooter era algo lento.",
-      "star_numb": 3,
-      "client_id": 2,
-      "scooter_id": 2
-    },
-    {
-      "id": "3",
-      "comment": "Muy buen scooter, me gustó mucho.",
-      "star_numb": 5,
-      "client_id": 1,
-      "scooter_id": 1
-    },
-    {
-      "id": "4",
-      "comment": "Prueba api 123123",
-      "star_numb": 5,
-      "client_id": 1,
-      "scooter_id": 1
-    }
-  ],
-  "payments": [
-    {
-      "id": "1",
-      "number": 123456789012,
-      "date": "2024-09-15",
-      "three_back_num": 123,
-      "user_id": 1
-    },
-    {
-      "id": "2",
-      "number": 987654321012,
-      "date": "2024-09-16",
-      "three_back_num": 456,
-      "user_id": 2
     }
   ]
 }

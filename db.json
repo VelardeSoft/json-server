@@ -1,24 +1,25 @@
 {
-  "operations": [
-    {
-      "name": "Scooter",
-      "type": "Dualtron",
-      "model": "Yamaha NMAX",
-      "price": 123,
-      "address": "Los olivos sn",
-      "phone": "926335834",
-      "imageUrl": "https://i.ibb.co/8rdm6xC/Logo-Movi-Tech.png",
-      "id": "2e14"
-    },
-    {
-      "id": "236e",
-      "name": "Scooter 2",
-      "type": "Kingsong",
-      "model": "Xiaome FA",
-      "price": 123,
-      "address": "Los Olivos sn1",
-      "phone": "926335924",
-      "imageUrl": "https://i.ibb.co/8rdm6xC/Logo-Movi-Tech.png"
-    }
-  ]
+    "scooter":[
+        {
+            "id": 1,
+            "modelo": "Scooter Model 01",
+            "Color": "Negro",
+            "Precio": 24.69,
+            "detalle": "Es un Scooter nuevo y veloz"
+        },
+        {
+            "id": 2,
+            "modelo": "Scooter Model 02",
+            "Color": "Blanco",
+            "Precio": 29.99,
+            "detalle": "Es un Scooter viejo y veloz"
+        },
+        {
+            "id": 3,
+            "modelo": "Scooter Model 03",
+            "Color": "Verde",
+            "Precio": 69.99,
+            "detalle": "Es un Scooter sin detalle"
+        }
+    ]
 }
